@@ -9,4 +9,6 @@
   </picture>
 </div>
 
-<h1 align="center">Angular Nx</div>
+<h1 align="center">Angular Nx</h1>
+
+<div align="center">✨ <em>Angular with Nx</em></div>
